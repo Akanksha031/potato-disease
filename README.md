@@ -19,6 +19,7 @@ You can install all the required dependencies by running the following command:
 ```
 pip install -r requirements.txt
 pip install tensorflow keras opencv-python-headless ipykernel matplotlib
+streamlit run web.py
   ```
 Requrement
 tensorflow
@@ -27,9 +28,8 @@ opencv-python-headless
 ipykernel
 matplotlib
 
-git clone https://github.com/your-username/plant-disease-detection.git
-cd plant-disease-detection
-streamlit run web.py
+
+
 
 
 ### Explanation:
