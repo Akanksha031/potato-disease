@@ -1,0 +1,5 @@
+Tensorflow
+keras
+opencv_python_headless
+ipykernel
+matplotlib
